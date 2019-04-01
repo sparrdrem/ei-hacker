@@ -1,2 +1,2 @@
-# ei-hacker
-Automated process of creating a multi-installation Windows ISO (requires a genuine image)
+# ei-hack
+Install any version of Windows you like with this Windows Installation mod.
